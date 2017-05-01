@@ -1,0 +1,21 @@
+Lynx, named after the animal, is a constellation in the northern sky that was introduced in the 17th century by Johannes Hevelius. It is a faint constellation with its brightest stars forming a zigzag line. The orange giant Alpha Lyncis is the brightest star in the constellation, while the semiregular variable star Y Lyncis is a target for amateur astronomers. Six star systems have been found to contain planets. Those of 6 Lyncis and HD 75898 were discovered by the Doppler method; those of XO-2, XO-4, XO-5 and WASP-13 were observed as they passed in front of the host star. Within the constellation's borders lie NGC 2419, an unusually remote globular cluster; the galaxy NGC 2770, which has hosted three recent Type Ib supernovae; the distant quasar APM 08279+5255, whose light is magnified and split into multiple images by the gravitational lensing effect of a foreground galaxy; and the Lynx Supercluster, which was the most distant supercluster known at the time of its discovery in 1999.
+Abbreviation Lynx¶
+Genitive Lyncis
+Pronunciation /ˈlɪŋks/,genitive /ˈlɪnsᵻs/
+Symbolism the Lynx
+Right ascension	8
+Declination	+45
+Family Ursa Major
+Quadrant NQ2
+Area 545 sq. deg. (28th)
+Main stars 4
+Bayer/Flamsteed stars 42
+Stars with planets 6
+Stars brighter than 3.00m 0
+Stars within 10.00 pc (32.62 ly) 1
+Brightest star α Lyn (3.14m)
+Nearest star LHS 1963 (28.1 ± 0.9 ly, 8.6 ± 0.3 pc)
+Messier objects	0
+Meteor showers Alpha Lyncids September Lyncids
+Bordering constellations Ursa Major Camelopardalis Auriga Gemini Cancer Leo (corner) Leo Minor
+Visible at latitudes between +90° and −55°. Best visible at 21:00 (9 p.m.) during the month of March.

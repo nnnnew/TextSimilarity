@@ -1,0 +1,20 @@
+Sagitta is a dim but distinctive constellation in the northern sky. Its name is Latin for "arrow", and it should not be confused with the larger constellation Sagittarius, the archer. Although Sagitta is an ancient constellation, it has no star brighter than 3rd magnitude and has the third-smallest area of all constellations (only Equuleus and Crux are smaller). It was included among the 48 constellations listed by the 2nd century astronomer Ptolemy, and it remains one of the 88 modern constellations defined by the International Astronomical Union. Located to the north of the equator, Sagitta can be seen from every location on Earth except within the Antarctic circle. The red giant Gamma Sagittae is the constellation's brightest star, with an apparent magnitude of 3.47. Two star systems have been found to have planets.
+Abbreviation Sge
+Genitive Sagittae
+Pronunciation /səˈdʒɪtə/ Sagítta,genitive /səˈdʒɪtiː/
+Symbolism the Arrow
+Right ascension	19.8333
+Declination	+18.66
+Family Hercules
+Quadrant NQ4
+Area 80 sq. deg. (86th)
+Main stars 4
+Bayer/Flamsteed stars 19
+Stars with planets 2
+Stars brighter than 3.00m 0
+Stars within 10.00 pc (32.62 ly) 1
+Brightest star γ Sge (3.51m)
+Nearest star Gliese 745 (28.14 ly, 8.63 pc)
+Messier objects	1
+Bordering constellations Vulpecula Hercules Aquila Delphinus
+Visible at latitudes between +90° and −70°. Best visible at 21:00 (9 p.m.) during the month of August.
